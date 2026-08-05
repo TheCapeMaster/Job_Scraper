@@ -1,0 +1,220 @@
+{
+  "profile": {
+    "title": "Climate & Water Communications Job Tracker",
+    "subtitle": "Remote · Global",
+    "emoji": "🌊"
+  },
+
+  "keywords": {
+    "include": [
+      "chief communications officer", "chief communication officer", "chief storyteller",
+      "vice president of communications", "vice president, communications", "vp communications",
+      "head of communications", "head of global communications", "head of content",
+      "director of communications", "communications director", "director, communications",
+      "director of strategic communications", "strategic communications", "strategic communication",
+      "global communications", "communications lead", "senior communications",
+      "executive communications", "communications advisor", "communications adviser",
+      "communications manager", "communications officer", "communications consultant",
+      "climate communications", "environmental communications", "science communications",
+      "conservation communications", "water communications",
+      "director of content", "content director", "content strategy", "editorial director",
+      "director of storytelling", "narrative strategy", "narrative change", "narrative director",
+      "brand director", "brand and communications", "marketing communications", "cause marketing",
+      "director of marketing communications",
+      "media relations", "director of media", "media director", "press secretary", "spokesperson",
+      "public affairs", "external affairs", "external relations", "public engagement",
+      "advocacy communications", "campaigns director", "director of campaigns",
+      "director of engagement", "director of partnerships", "partnerships director",
+      "digital communications", "digital strategy", "director of digital",
+      "impact producer", "executive producer", "senior producer", "documentary producer",
+      "multimedia producer", "content producer", "video producer", "creative director"
+    ],
+    "exclude": [
+      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice",
+      "assistant", "associate", "coordinator", "junior", "entry level", "entry-level",
+      "student", "graduate", "fellow", "fellowship", "volunteer", "postdoc", "postdoctoral",
+      "professor", "lecturer", "adjunct", "faculty",
+      "hybrid", "on-site", "onsite", "in-office", "in office", "relocation required",
+      "sales", "account executive", "account manager", "business development",
+      "recruiter", "recruiting", "talent acquisition",
+      "engineer", "engineering", "software", "developer", "data scientist",
+      "nurse", "technician", "driver", "cashier", "warehouse"
+    ]
+  },
+
+  "search_terms": {
+    "linkedin": [
+      "remote communications director", "director of communications remote",
+      "chief communications officer", "head of communications", "vice president communications",
+      "global communications director", "director of strategic communications",
+      "climate communications", "environmental communications", "science communications",
+      "water communications", "conservation communications",
+      "executive communications", "narrative strategy", "director of storytelling",
+      "media relations director", "public affairs director", "external affairs director",
+      "content director nonprofit", "brand and communications director",
+      "campaigns director nonprofit", "impact producer", "documentary producer",
+      "digital communications director", "communications consultant remote"
+    ],
+    "indeed": [
+      "remote communications director", "director of communications remote",
+      "chief communications officer", "head of communications", "vice president communications",
+      "global communications director", "director of strategic communications",
+      "climate communications", "environmental communications", "science communications",
+      "water communications", "conservation communications",
+      "executive communications", "narrative strategy", "director of storytelling",
+      "media relations director", "public affairs director", "external affairs director",
+      "content director nonprofit", "brand and communications director",
+      "campaigns director nonprofit", "impact producer", "documentary producer",
+      "digital communications director", "communications consultant remote"
+    ],
+    "glassdoor": [
+      "remote communications director", "director of communications remote",
+      "chief communications officer", "head of communications", "vice president communications",
+      "global communications director", "director of strategic communications",
+      "climate communications", "environmental communications", "science communications",
+      "water communications", "conservation communications",
+      "executive communications", "narrative strategy", "director of storytelling",
+      "media relations director", "public affairs director", "external affairs director",
+      "content director nonprofit", "brand and communications director",
+      "campaigns director nonprofit", "impact producer", "documentary producer",
+      "digital communications director", "communications consultant remote"
+    ],
+    "ziprecruiter": [
+      "remote communications director", "chief communications officer", "head of communications",
+      "strategic communications", "climate communications", "content director",
+      "media relations director", "executive communications"
+    ],
+    "google_jobs": [
+      "remote communications director", "director of communications remote",
+      "chief communications officer", "head of communications", "vice president communications",
+      "global communications director", "director of strategic communications",
+      "climate communications", "environmental communications", "science communications",
+      "water communications", "conservation communications",
+      "executive communications", "narrative strategy", "director of storytelling",
+      "media relations director", "public affairs director", "external affairs director",
+      "content director nonprofit", "brand and communications director",
+      "campaigns director nonprofit", "impact producer", "documentary producer",
+      "digital communications director", "communications consultant remote"
+    ],
+    "hiring_cafe": [
+      "remote communications director", "director of communications remote",
+      "chief communications officer", "head of communications", "vice president communications",
+      "global communications director", "director of strategic communications",
+      "climate communications", "environmental communications", "science communications",
+      "water communications", "conservation communications",
+      "executive communications", "narrative strategy", "director of storytelling",
+      "media relations director", "public affairs director", "external affairs director",
+      "content director nonprofit", "brand and communications director",
+      "campaigns director nonprofit", "impact producer", "documentary producer",
+      "digital communications director", "communications consultant remote"
+    ]
+  },
+
+  "locations": {
+    "linkedin": [
+      { "name": "Remote (Worldwide)",   "location": "Worldwide",      "geoId": "" },
+      { "name": "United States Remote", "location": "United States",  "geoId": "" },
+      { "name": "European Union",       "location": "European Union", "geoId": "" },
+      { "name": "United Kingdom",       "location": "United Kingdom", "geoId": "" },
+      { "name": "Portugal",             "location": "Portugal",       "geoId": "" }
+    ],
+    "indeed": [
+      { "location": "Remote", "country": "USA" },
+      { "location": "Remote", "country": "GB" },
+      { "location": "Remote", "country": "Portugal" }
+    ],
+    "glassdoor": [
+      { "location": "Remote", "country": "USA" },
+      { "location": "Remote", "country": "GB" },
+      { "location": "Remote", "country": "Portugal" }
+    ],
+    "ziprecruiter": [
+      { "location": "Remote", "country": "USA" },
+      { "location": "Remote", "country": "GB" },
+      { "location": "Remote", "country": "Portugal" }
+    ],
+    "google_jobs": [
+      { "location": "Remote", "country": "USA" },
+      { "location": "Remote", "country": "GB" },
+      { "location": "Remote", "country": "Portugal" }
+    ],
+    "hiring_cafe": [
+      { "location": "Remote", "country": "USA" },
+      { "location": "Remote", "country": "GB" },
+      { "location": "Remote", "country": "Portugal" }
+    ]
+  },
+
+  "location_filter": {
+    "terms": [
+      "remote", "fully remote", "remote-first", "work from home", "work from anywhere",
+      "anywhere", "worldwide", "global", "distributed", "virtual", "telework",
+      "home-based", "home based", "no office"
+    ]
+  },
+
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+
+  "employers": {
+    "priority": [
+      "Climate Central", "Our Common Home", "Water.org", "WaterAid", "charity: water",
+      "Pacific Institute", "US Water Alliance", "River Network", "American Rivers",
+      "Water Foundation", "Trout Unlimited", "The Freshwater Trust", "Blue Planet",
+      "World Resources Institute", "Natural Resources Defense Council", "Environmental Defense Fund",
+      "The Nature Conservancy", "Ocean Conservancy", "Conservation International",
+      "World Wildlife Fund", "WWF", "Audubon", "Sierra Club", "Earthjustice",
+      "Biomimicry Institute", "Rare", "Environmental Working Group", "Ceres",
+      "ClimateWorks", "Bezos Earth Fund", "Rockefeller Foundation", "Hewlett Foundation",
+      "Packard Foundation", "Walton Family Foundation", "Moore Foundation", "Schmidt",
+      "Climate Nexus", "Potential Energy", "Grist", "Inside Climate News", "Yale Climate",
+      "Global Fund for", "Center for Countering Digital Hate", "FAR.AI",
+      "Rocky Mountain Institute", "RMI", "Environmental Media Association",
+      "National Geographic Society", "Wild Elements", "Story of Stuff",
+      "United Nations", "UNICEF", "Oxfam", "Mercy Corps", "Rare Earth", "Nia Tero",
+      "Colorado River"
+    ],
+    "exclude": [
+      "staffing", "staffing agency", "recruiting", "recruitment", "talent solutions",
+      "robert half", "aerotek", "randstad", "adecco", "kelly services", "insight global",
+      "teksystems", "cybercoders", "jobot", "motion recruitment", "apex systems",
+      "hire", "talentify", "lensa", "energy jobline", "get it recruit"
+    ]
+  },
+
+  "priority_topics": {
+    "terms": [
+      ["water", "water|watershed|river|aquifer|drinking water|ocean|marine|estuar"],
+      ["climate", "climate|carbon|decarboni|clean energy|net[\\s-]?zero|resilience"],
+      ["narrative & storytelling", "storytell|narrative|editorial|content strategy|messaging"],
+      ["film & multimedia", "documentar|\\bfilm\\b|video|multimedia|producer|photograph"],
+      ["executive communications", "executive communicat|chief communicat|speechwrit|thought leadership|advis"]
+    ]
+  },
+
+  "role_categories": {
+    "terms": [
+      ["Chief / VP Communications", "chief communicat|chief marketing|chief storyteller|vice president|\\bvp\\b|\\bsvp\\b"],
+      ["Communications Director", "communications director|director[,\\s]+(of\\s+)?(global\\s+|strategic\\s+|external\\s+|corporate\\s+)?communicat|head of communicat"],
+      ["Strategic & Executive Comms", "strategic communicat|executive communicat|public affairs|external affairs|external relations|policy communicat"],
+      ["Media & Press", "media relations|\\bpress\\b|spokesperson|public information|newsroom|media director"],
+      ["Content & Editorial", "content|editorial|storytell|narrative|writer|copywrit"],
+      ["Brand & Marketing", "brand|marketing|cause marketing|campaign"],
+      ["Multimedia Production", "producer|documentar|video|\\bfilm\\b|multimedia|photograph|creative director"],
+      ["Digital & Social", "digital|social media|\\bweb\\b|audience|community manager"],
+      ["Partnerships & Engagement", "partnership|engagement|advocacy|development director|philanthrop"]
+    ]
+  },
+
+  "notify": {
+    "min_fit": 75
+  }
+}
