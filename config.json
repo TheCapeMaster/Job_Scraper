@@ -125,8 +125,7 @@
     ],
     "glassdoor": [
       { "location": "Remote", "country": "USA" },
-      { "location": "Remote", "country": "GB" },
-      { "location": "Remote", "country": "Portugal" }
+      { "location": "Remote", "country": "worldwide" }
     ],
     "ziprecruiter": [
       { "location": "Remote", "country": "USA" },
