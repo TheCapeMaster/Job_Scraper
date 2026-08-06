@@ -1,3 +1,5 @@
+SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 151 column 4 of the JSON data
+
 {
   "profile": {
     "title": "Climate & Water Communications Job Tracker",
@@ -35,6 +37,7 @@
       "student", "graduate", "fellow", "fellowship", "volunteer", "postdoc", "postdoctoral",
       "professor", "lecturer", "adjunct", "faculty",
       "hybrid", "on-site", "onsite", "in-office", "in office", "relocation required",
+      "must relocate", "office based", "office-based", "no remote", "not remote",
       "sales", "account executive", "account manager", "business development",
       "recruiter", "recruiting", "talent acquisition",
       "engineer", "engineering", "software", "developer", "data scientist",
@@ -45,15 +48,18 @@
   "search_terms": {
     "linkedin": [
       "remote communications director", "director of communications remote",
-      "chief communications officer", "head of communications", "vice president communications",
-      "global communications director", "director of strategic communications",
-      "climate communications", "environmental communications", "science communications",
-      "water communications", "conservation communications",
-      "executive communications", "narrative strategy", "director of storytelling",
-      "media relations director", "public affairs director", "external affairs director",
-      "content director nonprofit", "brand and communications director",
-      "campaigns director nonprofit", "impact producer", "documentary producer",
-      "digital communications director", "communications consultant remote"
+      "chief communications officer remote", "head of communications remote",
+      "vice president communications remote", "global communications director",
+      "director of strategic communications", "climate communications remote",
+      "environmental communications remote", "science communications remote",
+      "water communications remote", "conservation communications remote",
+      "executive communications remote", "narrative strategy remote",
+      "director of storytelling remote", "media relations director remote",
+      "public affairs director remote", "external affairs director remote",
+      "content director nonprofit remote", "brand and communications director remote",
+      "campaigns director nonprofit remote", "impact producer remote",
+      "documentary producer remote", "digital communications director remote",
+      "communications consultant remote"
     ],
     "indeed": [
       "remote communications director", "director of communications remote",
@@ -112,43 +118,37 @@
 
   "locations": {
     "linkedin": [
-      { "name": "Remote (Worldwide)",   "location": "Worldwide",      "geoId": "" },
-      { "name": "United States Remote", "location": "United States",  "geoId": "" },
-      { "name": "European Union",       "location": "European Union", "geoId": "" },
-      { "name": "United Kingdom",       "location": "United Kingdom", "geoId": "" },
-      { "name": "Portugal",             "location": "Portugal",       "geoId": "" }
+      { "name": "Remote (Worldwide)", "location": "Worldwide", "geoId": "", "remote_filter": "f_WT=2" },
+      { "name": "Remote (Global)",    "location": "Global",    "geoId": "", "remote_filter": "f_WT=2" }
     ],
     "indeed": [
-      { "location": "Remote", "country": "USA" },
-      { "location": "Remote", "country": "GB" },
-      { "location": "Remote", "country": "Portugal" }
+      { "location": "Remote", "country": "" }
     ],
     "glassdoor": [
-      { "location": "Remote", "country": "USA" },
       { "location": "Remote", "country": "worldwide" }
     ],
     "ziprecruiter": [
-      { "location": "Remote", "country": "USA" },
-      { "location": "Remote", "country": "GB" },
-      { "location": "Remote", "country": "Portugal" }
+      { "location": "Remote", "country": "" }
     ],
     "google_jobs": [
-      { "location": "Remote", "country": "USA" },
-      { "location": "Remote", "country": "GB" },
-      { "location": "Remote", "country": "Portugal" }
+      { "location": "Remote", "country": "" }
     ],
     "hiring_cafe": [
-      { "location": "Remote", "country": "USA" },
-      { "location": "Remote", "country": "GB" },
-      { "location": "Remote", "country": "Portugal" }
+      { "location": "Remote", "country": "" }
     ]
   },
 
-  "location_filter": {
     "terms": [
       "remote", "fully remote", "remote-first", "work from home", "work from anywhere",
       "anywhere", "worldwide", "global", "distributed", "virtual", "telework",
-      "home-based", "home based", "no office"
+      "home-based", "home based", "no office", "remote (europe)", "remote (global)",
+      "remote (worldwide)", "remote - any location", "remote - eu", "remote, europe"
+    ],
+    "exclude": [
+      "hybrid", "on-site", "onsite", "in-office", "in office", "in-person", "in person",
+      "must be based in office", "office required", "relocation required", "must relocate",
+      "office-based", "office based", "no remote", "not remote", "days in office",
+      "days per week in office", "commutable", "local candidates only"
     ]
   },
 
@@ -179,7 +179,10 @@
       "Rocky Mountain Institute", "RMI", "Environmental Media Association",
       "National Geographic Society", "Wild Elements", "Story of Stuff",
       "United Nations", "UNICEF", "Oxfam", "Mercy Corps", "Rare Earth", "Nia Tero",
-      "Colorado River"
+      "Colorado River",
+      "European Climate Foundation", "IUCN", "WWF Europe", "Client Earth", "ClientEarth",
+      "Ashden", "Global Witness", "Transport & Environment", "Bellona", "Carbon Market Watch",
+      "E3G", "Sandbag", "Agora Energiewende", "IDDRI", "GRID-Arendal", "Nordic Council"
     ],
     "exclude": [
       "staffing", "staffing agency", "recruiting", "recruitment", "talent solutions",
