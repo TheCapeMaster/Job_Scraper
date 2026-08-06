@@ -1,18 +1,25 @@
 # ☕ HiringCafe — Climate & Water Communications Roles
-*Last updated: 2026-08-06 00:12 UTC*
+*Last updated: 2026-08-06 10:20 UTC*
 
-**2 new role(s)** since last run · 169 total in last 30d
+**3 new role(s)** since last run · 171 total in last 30d
 
-### [Director, Internal & Executive Communications, North America](https://elcompanies.eightfold.ai/careers/job/1168274272301) — The Estée Lauder Companies Inc.
-- 📍 **Location:** New York City, New York, United States
-- 💰 **Salary:** $124k–$214k/yr
-- **Work mode:** Telecommute eligible
+### [Head of Communications, SCIEX](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Marlborough-Massachusetts-United-States/Head-of-Communications--SCIEX_R1316654) — Danaher
+- 📍 **Location:** Marlborough, Massachusetts, United States
+- 💰 **Salary:** $135k–$195k/yr
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-05T15:49:04.000Z
+- 🕒 **Posted:** 2026-08-05T00:00:00.000Z
 
-### [Director, Corporate Media Relations](https://www.jointhehartford.com/job/5516/director-corporate-media-relations-marketing-us-ct-hartford/) — The Hartford
-- 📍 **Location:** Hartford, Connecticut, United States
-- 💰 **Salary:** $128k–$192k/yr
-- **Work mode:** Telecommute eligible
+### [Director, Communications (Office of CEO)](https://prageru.breezy.hr/p/6cb75716e866-director-communications-office-of-ceo) — PragerU
+- 📍 **Location:** Los Angeles, California, United States
+- 💰 **Salary:** $100k–$160k/yr
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-21T12:00:00.000Z
+- 🕒 **Posted:** 2026-08-05T21:13:40.928Z
+
+### [Digital Media Director](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/IL-Chicago2501-W-Bradley-Place-WGN-TV/Digital-Media-Director_REQ-42542) — Nexstar
+- 📍 **Location:** Chicago, Illinois, United States
+- 💰 **Salary:** $100k–$130k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
