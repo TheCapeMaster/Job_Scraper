@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 06:02 UTC",
-  "total": 63,
-  "new_count": 0,
+  "scraped_at": "2026-08-07 19:41 UTC",
+  "total": 62,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GHD",
-      "title": "Environmental Scientist",
-      "location": "Golden, Colorado, United States",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27565",
-      "direct_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27565",
-      "date_posted": "2026-07-08T18:21:42.000Z",
-      "description": "Bachelor's in environmental engineering, geology, or environmental science; 3–6 years experience with project management and emergency response; experience in air monitoring, environmental sampling, ICS, SCAT, GIS, and client management.",
-      "salary": "$69k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Dewberry",
       "title": "Environmental Scientist",
       "location": "Panama City, Florida, United States",
@@ -256,20 +242,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hudbay",
-      "title": "Environmental Scientist",
-      "location": "Helvetia or Sahuarita",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
-      "date_posted": "2026-07-28T23:21:00.000Z",
-      "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Apex Companies",
       "title": "Environmental Scientist ",
       "location": "Rockville or North America",
@@ -278,6 +250,20 @@
       "date_posted": "2026-08-05T19:03:36.000Z",
       "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
       "salary": "$45k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hudbay",
+      "title": "Environmental Scientist",
+      "location": "Helvetia or Sahuarita",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
+      "date_posted": "2026-07-28T23:21:00.000Z",
+      "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -550,20 +536,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport-McMoRan",
-      "title": "Chief Environmental Scientist",
-      "location": "Morenci, Arizona, United States",
-      "url": "https://talent.fmjobs.com/careers/job/43028326",
-      "direct_url": "https://talent.fmjobs.com/careers/job/43028326",
-      "date_posted": "2026-07-08T18:40:20.000Z",
-      "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
-      "salary": "$112k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GFT.",
       "title": "Principal Environmental Scientist",
       "location": "Owings Mills, Maryland, United States",
@@ -715,6 +687,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Meta",
+      "title": "Program Manager, Specialized Risk Assessment",
+      "location": "New York City, New York, United States",
+      "url": "https://www.metacareers.com/profile/job_details/27594242883591804",
+      "direct_url": "https://www.metacareers.com/profile/job_details/27594242883591804",
+      "date_posted": "2026-08-06T20:56:52.650Z",
+      "description": "Requires 8+ years in risk management, business incident response, or program management; experience with risk frameworks, incident response, business continuity, cross-functional leadership, reporting, and systems thinking.",
+      "salary": "$153k–$209k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -886,5 +872,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Meta",
+      "title": "Program Manager, Specialized Risk Assessment",
+      "location": "New York City, New York, United States",
+      "url": "https://www.metacareers.com/profile/job_details/27594242883591804",
+      "direct_url": "https://www.metacareers.com/profile/job_details/27594242883591804",
+      "date_posted": "2026-08-06T20:56:52.650Z",
+      "description": "Requires 8+ years in risk management, business incident response, or program management; experience with risk frameworks, incident response, business continuity, cross-functional leadership, reporting, and systems thinking.",
+      "salary": "$153k–$209k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
