@@ -1,17 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-07 18:19 UTC*
+*Last updated: 2026-08-07 21:07 UTC*
 
-**2 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=0673d9a17f0fc41f) — State Air Resources Board
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $5918–$11k/mo
-- **Work mode:** Remote in-state eligible
+### [Academic Remediation Specialist](https://www.indeed.com/viewjob?jk=0f72c4713ba6aad7) — Summit College
+- 📍 **Location:** San Bernardino, CA, US
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-07
-
-### [Environmental Science Senior II - (Natural Resource Management / Biology)](https://www.indeed.com/viewjob?jk=f13a8e946280503c) — SoCalGas
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $116k–$182k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-06
