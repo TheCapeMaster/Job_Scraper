@@ -1,5 +1,5 @@
-# 🔎 Google Jobs — Climate & Water Communications Roles
-*Last updated: 2026-08-06 08:17 UTC*
+# 🔎 Google Jobs — Environmental / Toxicology Roles
+*Last updated: 2026-08-07 06:53 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
