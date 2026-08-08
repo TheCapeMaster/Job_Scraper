@@ -1,16 +1,17 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-08 04:36 UTC*
+*Last updated: 2026-08-08 18:01 UTC*
 
-**2 new role(s)** since last run · 64 total in last 30d
+**2 new role(s)** since last run · 66 total in last 30d
 
-### [Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine](https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/) — University of Cincinnati
-- 📍 **Location:** Cincinnati, Ohio, United States
+### [ASSISTANT TOXICOLOGIST I POST-MORTEM](https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001) — State of Maryland - MDH Ofc of Chief Med Examiner
+- 📍 **Location:** Baltimore, Maryland, United States
+- 💰 **Salary:** $72k–$113k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-20T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
-- 📍 **Location:** Denver or United States
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
 - 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
