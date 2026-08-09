@@ -1,11 +1,10 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-09 18:03 UTC*
+*Last updated: 2026-08-09 20:01 UTC*
 
-**1 new role(s)** since last run · 61 total in last 30d
+**1 new role(s)** since last run · 60 total in last 30d
 
-### [ASSISTANT TOXICOLOGIST I POST-MORTEM](https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001) — State of Maryland - MDH Ofc of Chief Med Examiner
-- 📍 **Location:** Baltimore, Maryland, United States
-- 💰 **Salary:** $72k–$113k/yr
+### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies) — CDR Companies
+- 📍 **Location:** State College, Pennsylvania, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-04T12:57:49.653Z
