@@ -1,7 +1,11 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-04 18:05 UTC*
+*Last updated: 2026-08-05 17:55 UTC*
 
-**1 new role(s)** since last run · 8 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 6 total in recent GovernmentJobs postings
 
-### [Associate Environmental Specialist (23394)](https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394) — Brevard County Board of County Commissioners
-- 📍 **Location:** Melbourne, FL
+### [Environmental Health Specialist I/II](https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii) — Kings County
+- 📍 **Location:** Hanford, CA
+
+### [Hazardous Materials Operations Specialist](https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist) — County of Mendocino
+- 📍 **Location:** Ukiah, CA
+- 💰 **Salary:** $68,286.40 - $82,992.00 Annually
