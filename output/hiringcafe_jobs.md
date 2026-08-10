@@ -1,18 +1,30 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-10 05:59 UTC*
+*Last updated: 2026-08-10 19:58 UTC*
 
-**2 new role(s)** since last run · 61 total in last 30d
+**4 new role(s)** since last run · 64 total in last 30d
 
-### [Environmental Scientist](https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1) — Kansas Department of Agriculture
-- 📍 **Location:** Garden City, Kansas, United States
-- 💰 **Salary:** $55k/yr
+### [Toxicologist](https://caandm.bamboohr.com/careers/105) — CA&M
+- 📍 **Location:** Bethesda, Maryland, United States
+- 💰 **Salary:** $170k/yr
+- **Work mode:** On-site
+- **Job type:** Contract
+- 🕒 **Posted:** 2026-08-10T00:00:00.000Z
+
+### [Environmental Scientist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4395491) — WESTWOOD PROFESSIONAL SERVICES INC
+- 📍 **Location:** Fort Worth, Texas, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-14T12:00:00.000Z
+- 🕒 **Posted:** 2026-08-10T15:56:48.000Z
 
-### [SENIOR RISK ASSESSMENT ANALYST](https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=86945&PostingSeq=1&SiteId=5) — University of California Office of the President
-- 📍 **Location:** Oakland, California, United States
-- 💰 **Salary:** $160k–$184k/yr
-- **Work mode:** Remote in-state eligible
+### [Senior Environmental Scientist](https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/) — Salt River Project
+- 📍 **Location:** Casa Grande, Arizona, United States
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-17T12:00:00.000Z
+- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
+
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
