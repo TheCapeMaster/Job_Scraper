@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-11 18:22 UTC*
+*Last updated: 2026-08-11 20:38 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4442781592/) — FlatironDragados
-- 📍 **Location:** Los Angeles, CA
+### [Associate Director - Water Resources](https://www.linkedin.com/jobs/view/4448749449/) — AECOM
+- 📍 **Location:** Newcastle West, New South Wales, Australia
 - 🕒 **Posted:** 2026-08-11
