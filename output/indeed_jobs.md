@@ -1,10 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-12 18:41 UTC*
+*Last updated: 2026-08-12 21:26 UTC*
 
-**1 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-### [Environmental Specialist II/III (Limited Term)](https://www.indeed.com/viewjob?jk=bd714757535581b2) — County of San Luis Obispo
-- 📍 **Location:** San Luis Obispo, CA, US
-- 💰 **Salary:** $83k–$124k/yr
+### [Early Career Environmental Scientist](https://www.indeed.com/viewjob?jk=5ac880d633ea61d1) — WSP
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $55k–$76k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-11
+- 🕒 **Posted:** 2026-08-12
