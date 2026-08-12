@@ -1,17 +1,24 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-12 20:04 UTC*
+*Last updated: 2026-08-12 23:20 UTC*
 
-**2 new role(s)** since last run · 66 total in last 30d
+**3 new role(s)** since last run · 66 total in last 30d
 
-### [Environmental Scientist](https://careers.trccompanies.com/jobs/26357?lang=en-us) — TRC Companies, Inc.
-- 📍 **Location:** Woodinville, Washington, United States
-- 💰 **Salary:** $50k–$56k/yr
+### [Toxicologist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414585) — Integral Consulting Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $65k–$115k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-12T18:09:27.000Z
+
+### [Environmental Scientist](https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist) — Timmons Group
+- 📍 **Location:** Raleigh, North Carolina, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T13:47:32.000Z
+- 🕒 **Posted:** 2026-08-12T16:27:50.408Z
 
-### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/gdKMuzfgJfYMXC59oMoWLp/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies) — CDR Companies
-- 📍 **Location:** State College, Pennsylvania, United States
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T13:42:22.823Z
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
