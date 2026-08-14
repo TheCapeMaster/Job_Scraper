@@ -1,11 +1,10 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-14 20:59 UTC*
+*Last updated: 2026-08-14 22:52 UTC*
 
 **1 new role(s)** since last run · 69 total in last 30d
 
-### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
-- 📍 **Location:** Boise or United States
-- 💰 **Salary:** $80k–$90k/yr
+### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1) — Kimley-Horn
+- 📍 **Location:** Jupiter, Florida, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-14T04:00:00.000Z
