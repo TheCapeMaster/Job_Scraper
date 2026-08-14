@@ -1,9 +1,19 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-14 22:09 UTC*
+*Last updated: 2026-08-14 23:10 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Early Career Environmental Scientist](https://www.linkedin.com/jobs/view/4454595932/) — WSP in the U.S.
-- 📍 **Location:** Vancouver, WA
-- 💰 **Salary:** $55,200 - $82,800
+### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454827191/) — Jacobs
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454817296/) — Jacobs
+- 📍 **Location:** Redding, CA
+- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454821290/) — Jacobs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
 - 🕒 **Posted:** 2026-08-14
