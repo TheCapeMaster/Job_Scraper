@@ -1,19 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-14 23:10 UTC*
+*Last updated: 2026-08-15 00:10 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454827191/) — Jacobs
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST) JC-528730](https://www.linkedin.com/jobs/view/4453745250/) — California Department of Public Health
+- 📍 **Location:** Sacramento County, CA
+- 💰 **Salary:** $7,820.00/mo - $10,732.00/mo
 - 🕒 **Posted:** 2026-08-14
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454817296/) — Jacobs
-- 📍 **Location:** Redding, CA
-- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454821290/) — Jacobs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
+### [GRC TPRM Assessment and Remediation SME](https://www.linkedin.com/jobs/view/4453743099/) — Tata Consultancy Services
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $80,000-$140,000
 - 🕒 **Posted:** 2026-08-14
