@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15 23:39 UTC",
+  "scraped_at": "2026-08-16 03:15 UTC",
   "total": 72,
   "new_count": 1,
   "jobs": [
@@ -60,20 +60,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "MPHI",
       "title": "Toxicologist (4947)",
       "location": "Lansing, Michigan, United States",
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -370,11 +370,11 @@
     {
       "company": "AECOM",
       "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "location": "Arlington, Virginia, United States",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
+      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
+      "date_posted": "2026-07-24T12:49:03.794Z",
+      "description": "Bachelor's in Environmental Science,2+ years environmental consulting experience,valid U.S. driver's license,U.S. citizenship required,OSHA 40-hour HAZWOPER,ability to lift 50 lbs,background check required.",
       "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -384,11 +384,11 @@
     {
       "company": "AECOM",
       "title": "Environmental Scientist",
-      "location": "Arlington, Virginia, United States",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
-      "date_posted": "2026-07-24T12:49:03.794Z",
-      "description": "Bachelor's in Environmental Science,2+ years environmental consulting experience,valid U.S. driver's license,U.S. citizenship required,OSHA 40-hour HAZWOPER,ability to lift 50 lbs,background check required.",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
       "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -578,6 +578,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "South Dakota State Government",
+      "title": "Environmental Scientist 1",
+      "location": "Pierre, South Dakota, United States",
+      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "date_posted": "2026-08-15T16:21:14.000Z",
+      "description": "Bachelor's degree in geology or a related environmental or physical science field; valid driver's license; scientific analysis, GIS, Microsoft Office, communication, and environmental law skills required.",
+      "salary": "$56k–$63k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "State of South Dakota",
       "title": "Environmental Scientist 1",
       "location": "Pierre, South Dakota, United States",
@@ -614,20 +628,6 @@
       "date_posted": "2026-07-27T05:00:00.000Z",
       "description": "Conduct asbestos and lead surveys, collect environmental samples, prepare technical reports; requires bachelor\\u0002s or equivalent, 1+ years environmental consulting experience, required accreditations for SC/NC, valid driver license.",
       "salary": "$60k–$70k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Salt River Project",
-      "title": "Senior Environmental Scientist",
-      "location": "Casa Grande, Arizona, United States",
-      "url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "direct_url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -914,6 +914,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Salt River Project",
+      "title": "Senior Environmental Scientist",
+      "location": "Casa Grande, Arizona, United States",
+      "url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
+      "direct_url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Atlas Technical Consultants",
       "title": "Environmental Scientist 1",
       "location": "Bellingham, Washington, United States",
@@ -996,32 +1010,18 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Dewberry",
-      "title": "Entry Level Environmental Scientist",
-      "location": "Orlando, Florida, United States",
-      "url": "https://careers-dewberry.icims.com/jobs/16142/entry-level-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-dewberry.icims.com/jobs/16142/entry-level-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-08-13T04:00:00.000Z",
-      "description": "Bachelor of Science in environmental science or a related field required. Requires fieldwork, environmental permitting, strong communication, Microsoft Office proficiency, and local or occasional statewide travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
+      "company": "South Dakota State Government",
+      "title": "Environmental Scientist 1",
+      "location": "Pierre, South Dakota, United States",
+      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "date_posted": "2026-08-15T16:21:14.000Z",
+      "description": "Bachelor's degree in geology or a related environmental or physical science field; valid driver's license; scientific analysis, GIS, Microsoft Office, communication, and environmental law skills required.",
+      "salary": "$56k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
