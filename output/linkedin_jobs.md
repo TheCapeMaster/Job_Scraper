@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-17 19:54 UTC*
+*Last updated: 2026-08-17 21:53 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Principal Air Quality Chemist](https://www.linkedin.com/jobs/view/4455367181/) — South Coast Air Quality Management District
-- 📍 **Location:** Diamond Bar, CA
-- 🕒 **Posted:** 2026-08-17
-
-### [Analyst II, QC Environmental Monitoring,](https://www.linkedin.com/jobs/view/4455373189/) — Baxter International Inc.
-- 📍 **Location:** Hayward, CA
-- 💰 **Salary:** $88,000 - $121,000 annually
+### [Senior Environmental Compliance Project Manager](https://www.linkedin.com/jobs/view/4454419813/) — Dudek
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $110,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-08-17
