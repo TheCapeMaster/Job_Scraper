@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-18 22:06 UTC*
+*Last updated: 2026-08-18 23:10 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4454906952/) — CDMS
-- 📍 **Location:** Long Beach, CA
-- 🕒 **Posted:** 2026-08-18
+No new roles since the last run.
