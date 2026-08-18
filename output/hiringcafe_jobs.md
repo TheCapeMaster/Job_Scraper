@@ -1,11 +1,18 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-18 17:58 UTC*
+*Last updated: 2026-08-18 19:49 UTC*
 
-**1 new role(s)** since last run · 69 total in last 30d
+**2 new role(s)** since last run · 71 total in last 30d
 
-### [Environmental Scientist IV](https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-IV_JR100270) — Ddcdine
-- 📍 **Location:** Greenbelt, Maryland, United States
-- 💰 **Salary:** $90k–$105k/yr
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
+- 📍 **Location:** Denver or United States
+- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-31T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+
+### [Environmental Scientist](https://secure7.saashr.com/ta/6206147.careers?ShowJob=621251691) — Barton & Loguidice, D.P.C.
+- 📍 **Location:** Albany, New York, United States
+- 💰 **Salary:** $54k–$62k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-18T16:58:51.409Z
