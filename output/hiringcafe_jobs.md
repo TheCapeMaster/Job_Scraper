@@ -1,6 +1,10 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-17 23:47 UTC*
+*Last updated: 2026-08-18 03:08 UTC*
 
-**0 new role(s)** since last run · 71 total in last 30d
+**1 new role(s)** since last run · 71 total in last 30d
 
-No new roles since the last run.
+### [Environmental Scientist](https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-56244) — Tetra Tech
+- 📍 **Location:** Germantown or Frederick County or Carroll County or Baltimore County or United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-17T22:11:25.508Z
