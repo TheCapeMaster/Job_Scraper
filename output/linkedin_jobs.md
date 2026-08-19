@@ -1,13 +1,12 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-19 21:53 UTC*
+*Last updated: 2026-08-19 23:13 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Principal Scientist -  Toxicology & Translational Lead](https://www.linkedin.com/jobs/view/4456396034/) — Lipovectra
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $175,000 – $225,000
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4456401484/) — Clark Pacific
+- 📍 **Location:** Woodland, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Associate Director - Water Resources](https://www.linkedin.com/jobs/view/4455455344/) — AECOM
-- 📍 **Location:** Perth, Western Australia, Australia
+### [Environmental Compliance Inspector](https://www.linkedin.com/jobs/view/4456328977/) — Quanta Infrastructure Solutions Group
+- 📍 **Location:** Multnomah County, OR
 - 🕒 **Posted:** 2026-08-19
