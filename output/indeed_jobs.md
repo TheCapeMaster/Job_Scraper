@@ -1,16 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-20 17:14 UTC*
+*Last updated: 2026-08-20 19:30 UTC*
 
-**2 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [Environmental Scientist/Contaminated Land (FIFO) - Northern Territory](https://au.indeed.com/viewjob?jk=fc6728a290c7d3ff) — Tetra Tech
-- 📍 **Location:** Darwin, NT, AU
+### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=4798a25b24421733) — State Air Resources Board
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $5918–$11k/mo
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-20
-
-### [Senior Hazardous Materials Consultant](https://au.indeed.com/viewjob?jk=f0160beb2c43b774) — Construction Sciences
-- 📍 **Location:** Newmarket, QLD, AU
-- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-20
