@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-20 00:08 UTC*
+*Last updated: 2026-08-20 03:35 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Project Manager - Hazardous Materials](https://www.linkedin.com/jobs/view/4455476966/) — Aztech Services Australia
+- 📍 **Location:** Underwood, Queensland, Australia
+- 🕒 **Posted:** 2026-08-20
