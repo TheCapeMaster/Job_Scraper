@@ -1,17 +1,13 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-21 21:12 UTC*
+*Last updated: 2026-08-21 22:10 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4456285194/) — AECOM
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $70500 to $75000
+### [Toxicology Director](https://www.linkedin.com/jobs/view/4429982477/) — Proclinical Staffing
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-21
 
-### [Environmental Health Safety Coordinator](https://www.linkedin.com/jobs/view/4456291324/) — Cardinal CT
-- 📍 **Location:** Dixon, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Associate Director - Water Resources](https://www.linkedin.com/jobs/view/4455455344/) — AECOM
-- 📍 **Location:** Perth, Western Australia, Australia
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4457506741/) — California Department of Water Resources
+- 📍 **Location:** Tehama County, CA
+- 💰 **Salary:** $7,820.00/mo - $10,732.00/mo
 - 🕒 **Posted:** 2026-08-21
