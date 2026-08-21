@@ -1,17 +1,17 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-21 22:53 UTC*
+*Last updated: 2026-08-21 23:50 UTC*
 
-**2 new role(s)** since last run · 72 total in last 30d
+**2 new role(s)** since last run · 73 total in last 30d
 
-### [Senior Environmental Scientist](https://jobs-ats.nationalgrid.com/job/Syracuse-Senior-Environmental-Scientist-NY-13202/1421873900/) — NATIONAL GRID UK LIMITED
-- 📍 **Location:** Syracuse or Albany or Buffalo
-- 💰 **Salary:** $95k–$111k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-21T00:00:00.000Z
-
-### [Environmental Scientist/Ecologist](https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/) — HNTB
-- 📍 **Location:** Nashville, Tennessee, United States
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-21T14:48:47.000Z
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+
+### [Environmental Scientist I](https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470) — Wsc
+- 📍 **Location:** Des Moines, Iowa, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
