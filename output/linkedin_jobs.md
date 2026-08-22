@@ -1,9 +1,23 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-22 05:09 UTC*
+*Last updated: 2026-08-22 16:06 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4454096492/) — Triumvirate Environmental
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $28 USD - $28 USD
+### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4438895336/) — Jacobs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $74,700.00/yr - $112,000.00/yr
+- 🕒 **Posted:** 2026-08-22
+
+### [Construction Associate Environmental Specialist- Solar](https://www.linkedin.com/jobs/view/4438830542/) — Mortenson
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $73,800 - $92,300
+- 🕒 **Posted:** 2026-08-22
+
+### [Senior / Principal Sediment Remediation Practitioner](https://www.linkedin.com/jobs/view/4401115497/) — Geosyntec Consultants
+- 📍 **Location:** Portland, OR
+- 🕒 **Posted:** 2026-08-22
+
+### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4438892443/) — Jacobs
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $74,700.00/yr - $112,000.00/yr
 - 🕒 **Posted:** 2026-08-22
