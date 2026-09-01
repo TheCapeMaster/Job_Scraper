@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-01 17:00 UTC",
+  "scraped_at": "2026-09-01 17:57 UTC",
   "total": 74,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Integral Consulting Inc.",
@@ -1040,48 +1040,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Texas Commission on Environmental Quality",
-      "title": "TCEQ - Toxicologist I",
-      "location": "Austin, Texas, United States",
-      "url": "https://erphcmprd.cpa.texas.gov/psc/candidateportal/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=102979&PostingSeq=1&SiteId=1",
-      "direct_url": "https://erphcmprd.cpa.texas.gov/psc/candidateportal/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=102979&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-08-24T06:38:06.613Z",
-      "description": "Master's in toxicology, pharmacology, or related field plus 2 years' experience, or a doctorate in a related field; requires toxicology knowledge, risk assessment, communication, and technical reporting skills.",
-      "salary": "$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arcadis",
-      "title": "Environmental Scientist",
-      "location": "Tampa or United States",
-      "url": "https://arcadis.eightfold.ai/careers/job/563671532956439",
-      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532956439",
-      "date_posted": "2026-08-31T21:27:52.000Z",
-      "description": "Bachelor’s degree in environmental science or related discipline, 2+ years of environmental fieldwork and reporting, interdisciplinary project experience, and GPS field technology experience. HAZWOPER certification preferred.",
-      "salary": "$70k–$105k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Google",
-      "title": "Risk Assessment and ERM Lead, gTech Risk",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://careers.google.com/jobs/results/89577532881281734-risk-assessment-and-erm-lead/",
-      "direct_url": "https://careers.google.com/jobs/results/89577532881281734-risk-assessment-and-erm-lead/",
-      "date_posted": "2026-09-01T06:37:11.737Z",
-      "description": "Bachelor's degree or equivalent experience and 8 years in technical project management or customer-facing roles; preferred GRC, risk assessment, internal audit, compliance, analytics, and control-mapping experience.",
-      "salary": "$140k–$204k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
