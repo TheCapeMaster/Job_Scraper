@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-02 20:58 UTC",
+  "scraped_at": "2026-09-02 21:58 UTC",
   "total": 7,
-  "new_count": 7,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Google",
@@ -102,104 +102,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Google",
-      "title": "Risk Assessment and ERM Lead, gTech Risk",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://careers.google.com/jobs/results/89577532881281734-risk-assessment-and-erm-lead/",
-      "direct_url": "https://careers.google.com/jobs/results/89577532881281734-risk-assessment-and-erm-lead/",
-      "date_posted": "2026-09-01T06:37:11.737Z",
-      "description": "Bachelor's degree or equivalent experience and 8 years in technical project management or customer-facing roles; preferred GRC, risk assessment, internal audit, compliance, analytics, and control-mapping experience.",
-      "salary": "$140k–$204k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Deringer",
-      "title": "Customs Compliance Risk Assessment Specialist",
-      "location": "United States",
-      "url": "https://recruiting.ultipro.com/and1007ander/JobBoard/030925a7-6a27-6b61-9c69-34c22ddb7fab/OpportunityDetail?opportunityId=10adc2c9-316d-4c90-85ac-d77ccdbbc140",
-      "direct_url": "https://recruiting.ultipro.com/and1007ander/JobBoard/030925a7-6a27-6b61-9c69-34c22ddb7fab/OpportunityDetail?opportunityId=10adc2c9-316d-4c90-85ac-d77ccdbbc140",
-      "date_posted": "2026-08-07T20:38:58.022Z",
-      "description": "Licensed customs broker, bachelor's degree or equivalent experience, and 5+ years in customs brokerage or trade compliance. Requires customs regulations, risk assessment, analytical, problem-solving, and communication skills.",
-      "salary": "$65k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "RMGS, Inc.",
-      "title": "Threat & Risk Assessment Specialist",
-      "location": "Quito or Virginia Beach",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fbf03680-fc69-4887-9898-010f32850bc9&ccId=19000101_000001&jobId=628517&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fbf03680-fc69-4887-9898-010f32850bc9&ccId=19000101_000001&jobId=628517&lang=en_US",
-      "date_posted": "2026-09-01T23:40:00.000Z",
-      "description": "Relevant degree, 5+ years in threat or vulnerability analysis within law enforcement or intelligence, Spanish proficiency, and ability to obtain U.S. Moderate Risk Public Trust determination.",
-      "salary": "",
-      "job_type": "Full Time, Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lincoln Financial",
-      "title": "Lead Security Risk Assessment Analyst",
-      "location": "Radnor or Charlotte or Fort Wayne or Greensboro or Syracuse",
-      "url": "https://jobs.lincolnfinancial.com/job/Radnor-Lead-Security-Risk-Assessment-Analyst-PA/1423295300/",
-      "direct_url": "https://jobs.lincolnfinancial.com/job/Radnor-Lead-Security-Risk-Assessment-Analyst-PA/1423295300/",
-      "date_posted": "2026-08-25T00:00:00.000Z",
-      "description": "Bachelor's degree or 4 years equivalent experience, 5+ years in IT security, IT audit, or information risk management, and 2+ years in artificial intelligence. CompTIA Security+ preferred.",
-      "salary": "$120k–$193k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Tecolote Research, Inc.",
-      "title": "Schedule Risk Assessment (SRA) Analyst – Master Scheduler",
-      "location": "San Diego, California, United States",
-      "url": "https://www.tecolote.com/careers/job/20df0e86-b111-47b8-bffa-7993e34cdb70",
-      "direct_url": "https://www.tecolote.com/careers/job/20df0e86-b111-47b8-bffa-7993e34cdb70",
-      "date_posted": "2026-08-04T19:06:08.151Z",
-      "description": "5+ years scheduling/program controls experience, Bachelor\\u0002s degree, active DoD Secret clearance, IMS and schedule risk assessment experience, proficiency with Microsoft Project or Primavera P6, Monte Carlo/SRA experience desired.",
-      "salary": "$80k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "TD Bank Group",
-      "title": "Senior Manager, Regulatory Compliance Risk Assessment (US)",
-      "location": "New York City or Charlotte",
-      "url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/New-York-New-York/Senior-Manager--Regulatory-Compliance-Risk-Assessment--US--5223_R_1506099",
-      "direct_url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/New-York-New-York/Senior-Manager--Regulatory-Compliance-Risk-Assessment--US--5223_R_1506099",
-      "date_posted": "2026-08-27T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience; 8–10+ years in compliance, risk management, internal audit, or related fields; people leadership; advanced Excel and PowerPoint skills; risk assessment expertise.",
-      "salary": "$115k–$186k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "JPMorgan Chase",
-      "title": "Firmwide Compliance Risk Assessment - Vice President",
-      "location": "Brooklyn or Jersey City or Plano",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210778408",
-      "direct_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210778408",
-      "date_posted": "2026-08-24T15:37:56.000Z",
-      "description": "Requires 8+ years in financial services risk, compliance, audit, legal, process management, testing, or data analysis, plus strong analytical, communication, stakeholder, presentation, and transformation leadership skills.",
-      "salary": "$104k–$190k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
