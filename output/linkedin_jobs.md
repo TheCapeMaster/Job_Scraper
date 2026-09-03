@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-03 01:43 UTC*
+*Last updated: 2026-09-03 05:22 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Wastewater Quality - Technical Advisor](https://www.linkedin.com/jobs/view/4452203842/) — Water Corporation
+- 📍 **Location:** Albany, Western Australia, Australia
+- 🕒 **Posted:** 2026-09-03
+
+### [Student Environmental Health Officer](https://www.linkedin.com/jobs/view/4462773009/) — Bayside City Council
+- 📍 **Location:** Sandringham, Victoria, Australia
+- 🕒 **Posted:** 2026-09-03
