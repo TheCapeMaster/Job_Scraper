@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-03 05:22 UTC*
+*Last updated: 2026-09-03 15:44 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Wastewater Quality - Technical Advisor](https://www.linkedin.com/jobs/view/4452203842/) — Water Corporation
-- 📍 **Location:** Albany, Western Australia, Australia
-- 🕒 **Posted:** 2026-09-03
-
-### [Student Environmental Health Officer](https://www.linkedin.com/jobs/view/4462773009/) — Bayside City Council
-- 📍 **Location:** Sandringham, Victoria, Australia
+### [Product Stewardship Specialist I](https://www.linkedin.com/jobs/view/4452737763/) — Penumbra, Inc.
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $72,000 - $94,000
 - 🕒 **Posted:** 2026-09-03
