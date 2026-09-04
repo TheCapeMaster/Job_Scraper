@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-04 01:40 UTC*
+*Last updated: 2026-09-04 02:41 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Environmental Science Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4463176094/) — Alignerr
-- 📍 **Location:** Sydney, New South Wales, Australia
-- 💰 **Salary:** $75.00/hr - $90.00/hr
+### [Water Resources Project Manager](https://www.linkedin.com/jobs/view/4463162618/) — Stantec
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $145,600.00 - $218,500.00 Annually
 - 🕒 **Posted:** 2026-09-04
