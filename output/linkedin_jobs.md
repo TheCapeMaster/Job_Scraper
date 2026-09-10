@@ -1,9 +1,18 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-10 06:13 UTC*
+*Last updated: 2026-09-10 18:44 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Associate Professor/Prof of Environmental Science (Water and Environmental Systems Program Lead)](https://www.linkedin.com/jobs/view/4464184169/) — Charles Sturt University
-- 📍 **Location:** Albury, New South Wales, Australia
-- 💰 **Salary:** $167,348 to $184,243
+### [Principal Toxicologist (Ph.D.)](https://www.linkedin.com/jobs/view/4322119855/) — Exponent
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** USD $200,000.00 - USD $300,000.00 /Yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Hazardous Materials Handler](https://www.linkedin.com/jobs/view/4463906493/) — Divergent
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $35.16 - $42.98
+- 🕒 **Posted:** 2026-09-10
+
+### [Environmental Specialist I](https://www.linkedin.com/jobs/view/4463139892/) — Veolia | North America
+- 📍 **Location:** Hillsboro, OR
 - 🕒 **Posted:** 2026-09-10
