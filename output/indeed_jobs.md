@@ -1,11 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-17 00:54 UTC*
+*Last updated: 2026-09-17 06:40 UTC*
 
-**1 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=9cb3656f3d1c29d1) — CALIFORNIA ENERGY COMMISSION
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=9ef485d4836ef870) — STATE WATER RESOURCES CONTROL BOARD
 - 📍 **Location:** CA, US
-- 💰 **Salary:** $5918–$11k/mo
-- **Work mode:** Remote in-state eligible
+- 💰 **Salary:** $4418–$9321/mo
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-16
+- 🕒 **Posted:** 2026-09-17
