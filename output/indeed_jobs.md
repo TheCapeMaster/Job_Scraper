@@ -1,18 +1,29 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-10-08 00:27 UTC*
+*Last updated: 2026-10-08 06:40 UTC*
 
-**2 new role(s)** since last run · 4 total in last 24h
+**4 new role(s)** since last run · 6 total in last 24h
 
-### [Associate Consultant, Air Quality](https://www.indeed.com/viewjob?jk=f14bc31480ea33ce) — Ramboll
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $64k–$81k/yr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=f03b2c54abffea2a) — Department Of Forestry & Fire Protection
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-08
 
-### [Associate Consultant, Air Quality](https://www.indeed.com/viewjob?jk=924d972bdbce0941) — Ramboll
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $64k–$81k/yr
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=2817a5c7a2705b09) — DEPARTMENT OF FISH AND WILDLIFE
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7820–$11k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-08
+
+### [Environmental Science Analyst](https://www.indeed.com/viewjob?jk=9f614f2e9f69ee56) — Kimley-Horn
+- 📍 **Location:** Oakland, CA, US
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-07
+
+### [2027 Graduate Environmental Scientist / Planner](https://au.indeed.com/viewjob?jk=ab8a8e3b459a7051) — AECOM
+- 📍 **Location:** Newcastle, NSW, AU
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-08
